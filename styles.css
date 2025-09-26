@@ -1,0 +1,59 @@
+
+main {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+
+body {
+    background-color: #aee0b9;
+    color:darkblue;
+    font-family: "Syne", sans-serif;
+}
+
+h1 {
+  font-family: "SUSE Mono", sans-serif;
+  font-size: 60px;
+  font-weight: 400;
+  color: rebeccapurple;
+}
+
+h2 {
+  font-family: "SUSE Mono", sans-serif;
+  color: rebeccapurple;
+  font-style: italic;
+}
+
+h3 {
+  font-family: Georgia, serif;
+  font-size: 25px;
+  color: rebeccapurple;
+}
+
+h4 {
+  font-family: "SUSE Mono", sans-serif;
+  font-size: 20px;
+  color: rgb(14, 14, 88);
+}
+
+
+p {
+  font-size: 16px;
+  text-indent: 32px;
+  margin-bottom: 48px
+}
+
+.intro-paragraph {
+  color:blue;
+  font-style: italic;
+}
+
+a {
+  color:slateblue;
+  transition: 5ms;
+}
+
+a:hover {
+  color: red;
+}
